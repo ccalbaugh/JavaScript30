@@ -85,7 +85,7 @@
     button {
       width: calc(33.333% - 20px);
       flex: 1;
-      /*justify-content: space-between;*/
+      justify-content: space-between;
       padding:10px;
       outline:0;
       border:1px solid rgba(0,0,0,0.1);
