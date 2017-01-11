@@ -76,3 +76,17 @@
       outline:0;
       border:1px solid rgba(0,0,0,0.1);
     }
+
+    .button-wrapper {
+      display: flex;
+      margin: 10px 0;
+    }
+
+    button {
+      width: calc(33.333% - 20px);
+      flex: 1;
+      justify-content: space-between;
+      padding:10px;
+      outline:0;
+      border:1px solid rgba(0,0,0,0.1);
+    }
